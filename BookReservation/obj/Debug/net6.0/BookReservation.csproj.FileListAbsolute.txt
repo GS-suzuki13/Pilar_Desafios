@@ -1,0 +1,15 @@
+C:\Projects\Pilar\BookReservation\bin\Debug\net6.0\BookReservation.exe
+C:\Projects\Pilar\BookReservation\bin\Debug\net6.0\BookReservation.deps.json
+C:\Projects\Pilar\BookReservation\bin\Debug\net6.0\BookReservation.runtimeconfig.json
+C:\Projects\Pilar\BookReservation\bin\Debug\net6.0\BookReservation.dll
+C:\Projects\Pilar\BookReservation\bin\Debug\net6.0\BookReservation.pdb
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.csproj.AssemblyReference.cache
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.AssemblyInfoInputs.cache
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.AssemblyInfo.cs
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.csproj.CoreCompileInputs.cache
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.dll
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\refint\BookReservation.dll
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.pdb
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\BookReservation.genruntimeconfig.cache
+C:\Projects\Pilar\BookReservation\obj\Debug\net6.0\ref\BookReservation.dll

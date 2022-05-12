@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BooksReservationAPI
+build_property.RootNamespace = BooksReservationAPI
+build_property.ProjectDir = C:\Projects\Desafio_Pilar_API\BookReservationApi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\Desafio_Pilar_API\BookReservationApi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/BookReservationApi/Views/BooksControllerMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9va1Jlc2VydmF0aW9uQXBpXFZpZXdzXEJvb2tzQ29udHJvbGxlck1WQ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/BookReservationApi/Views/BooksControllerMVC/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9va1Jlc2VydmF0aW9uQXBpXFZpZXdzXEJvb2tzQ29udHJvbGxlck1WQ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/BookReservationApi/Views/BooksControllerMVC/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9va1Jlc2VydmF0aW9uQXBpXFZpZXdzXEJvb2tzQ29udHJvbGxlck1WQ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/BookReservationApi/Views/BooksControllerMVC/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9va1Jlc2VydmF0aW9uQXBpXFZpZXdzXEJvb2tzQ29udHJvbGxlck1WQ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/BookReservationApi/Views/BooksControllerMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9va1Jlc2VydmF0aW9uQXBpXFZpZXdzXEJvb2tzQ29udHJvbGxlck1WQ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/BookReservationApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Qm9va1Jlc2VydmF0aW9uQXBpXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/Views/BooksControllerMVC/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NDb250cm9sbGVyTVZDXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/Views/BooksControllerMVC/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NDb250cm9sbGVyTVZDXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/Views/BooksControllerMVC/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NDb250cm9sbGVyTVZDXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/Views/BooksControllerMVC/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NDb250cm9sbGVyTVZDXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/Views/BooksControllerMVC/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NDb250cm9sbGVyTVZDXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Desafio_Pilar_API/BookReservationApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
